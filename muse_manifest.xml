@@ -1,0 +1,849 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="elvistone.com" resolutions="1x" timestamp="1543300968709">
+  <folder name="css">
+    <file name="site_global.css" crc="285120624"/>
+    <file name="master_template.css" crc="4060774334" ref="contact:ua:4_ua:3:contact_ua:2:3_ua:index:about_ua:1:2_ua:about:1_ua:4"/>
+    <file name="contact.css" crc="4270181214" ref="contact"/>
+    <file name="ua.css" crc="329733363" ref="ua"/>
+    <file name="4_ua.css" crc="4057182763" ref="4_ua"/>
+    <file name="3.css" crc="4025169551" ref="3"/>
+    <file name="contact_ua.css" crc="28843974" ref="contact_ua"/>
+    <file name="2.css" crc="3826169525" ref="2"/>
+    <file name="3_ua.css" crc="358346715" ref="3_ua"/>
+    <file name="index.css" crc="4090631553" ref="index"/>
+    <file name="about_ua.css" crc="4003871753" ref="about_ua"/>
+    <file name="1.css" crc="44384000" ref="1"/>
+    <file name="2_ua.css" crc="189006932" ref="2_ua"/>
+    <file name="about.css" crc="293077459" ref="about"/>
+    <file name="1_ua.css" crc="29095470" ref="1_ua"/>
+    <file name="4.css" crc="91836152" ref="4"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>1:phone>2:phone>3:phone>4:phone>ua:phone>1_ua:phone>2_ua:phone>3_ua:phone>4_ua:phone>about:phone>about_ua:phone>contact:phone>contact_ua:index:1:contact:2:3:4:about:about_ua:contact_ua:ua:1_ua:2_ua:3_ua:4_ua"/>
+    <file name="museutils.js" crc="17924269" ref="phone>index:phone>1:phone>2:phone>3:phone>4:phone>ua:phone>1_ua:phone>2_ua:phone>3_ua:phone>4_ua:phone>about:phone>about_ua:phone>contact:phone>contact_ua:index:1:contact:2:3:4:about:about_ua:contact_ua:ua:1_ua:2_ua:3_ua:4_ua"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>1:phone>2:phone>3:phone>4:phone>ua:phone>1_ua:phone>2_ua:phone>3_ua:phone>4_ua:phone>about:phone>about_ua:phone>contact:phone>contact_ua:index:1:contact:2:3:4:about:about_ua:contact_ua:ua:1_ua:2_ua:3_ua:4_ua"/>
+    <file name="museconfig.js" crc="144853533" ref="phone>index:phone>1:phone>2:phone>3:phone>4:phone>ua:phone>1_ua:phone>2_ua:phone>3_ua:phone>4_ua:phone>about:phone>about_ua:phone>contact:phone>contact_ua:index:1:contact:2:3:4:about:about_ua:contact_ua:ua:1_ua:2_ua:3_ua:4_ua"/>
+    <file name="webpro.js" crc="416662029" ref="phone>index:phone>1:phone>2:phone>3:phone>4:phone>ua:phone>1_ua:phone>2_ua:phone>3_ua:phone>4_ua:phone>about:phone>about_ua:phone>contact:phone>contact_ua:index:1:contact:2:3:4:about:about_ua:contact_ua:ua:1_ua:2_ua:3_ua:4_ua"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="phone>index:phone>1:phone>2:phone>3:phone>4:phone>ua:phone>1_ua:phone>2_ua:phone>3_ua:phone>4_ua:phone>about:phone>about_ua:phone>contact:phone>contact_ua:index:1:contact:2:3:4:about:about_ua:contact_ua:ua:1_ua:2_ua:3_ua:4_ua"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="phone>index:phone>1:phone>2:phone>3:phone>4:phone>ua:phone>1_ua:phone>2_ua:phone>3_ua:phone>4_ua:phone>about:phone>about_ua:phone>contact:phone>contact_ua:index:1:contact:2:3:4:about:about_ua:contact_ua:ua:1_ua:2_ua:3_ua:4_ua"/>
+    <file name="touchswipe.js" crc="432264157" ref="phone>index:phone>1:phone>2:phone>3:phone>4:phone>ua:phone>1_ua:phone>2_ua:phone>3_ua:phone>4_ua:phone>about:phone>about_ua:phone>contact:phone>contact_ua:index:1:contact:2:3:4:about:about_ua:contact_ua:ua:1_ua:2_ua:3_ua:4_ua"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="phone>index:phone>1:phone>2:phone>3:phone>4:phone>ua:phone>1_ua:phone>2_ua:phone>3_ua:phone>4_ua:phone>about:phone>about_ua:phone>contact:phone>contact_ua:index:1:contact:2:3:4:about:about_ua:contact_ua:ua:1_ua:2_ua:3_ua:4_ua"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="phone>index:phone>1:phone>2:phone>3:phone>4:phone>ua:phone>1_ua:phone>2_ua:phone>3_ua:phone>4_ua:phone>about:phone>about_ua:phone>contact:phone>contact_ua:index:1:contact:2:3:4:about:about_ua:contact_ua:ua:1_ua:2_ua:3_ua:4_ua"/>
+    <file name="require.js" crc="3861931657" ref="phone>index:phone>1:phone>2:phone>3:phone>4:phone>ua:phone>1_ua:phone>2_ua:phone>3_ua:phone>4_ua:phone>about:phone>about_ua:phone>contact:phone>contact_ua:index:1:contact:2:3:4:about:about_ua:contact_ua:ua:1_ua:2_ua:3_ua:4_ua"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="phone>about:phone>about_ua:phone>contact:phone>contact_ua"/>
+  </folder>
+  <folder name="images">
+    <file name="bg0.jpg" crc="314781035" seo="true" ref="phone>index:phone>1:phone>2:phone>3:phone>4:phone>ua:phone>1_ua:phone>2_ua:phone>3_ua:phone>4_ua:phone>about:phone>about_ua:phone>contact:phone>contact_ua:index:1:contact:2:3:4:about:about_ua:contact_ua:ua:1_ua:2_ua:3_ua:4_ua">
+      <caption webpage="1" alt=""/>
+      <caption webpage="1" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="about_ua" alt=""/>
+      <caption webpage="about_ua" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="ua" alt=""/>
+      <caption webpage="ua" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+      <caption webpage="contact_ua" alt=""/>
+      <caption webpage="contact_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>1:phone>2:phone>3:phone>4:phone>ua:phone>1_ua:phone>2_ua:phone>3_ua:phone>4_ua:phone>about:phone>about_ua:phone>contact:phone>contact_ua:index:1:contact:2:3:4:about:about_ua:contact_ua:ua:1_ua:2_ua:3_ua:4_ua"/>
+    <file name="bg1.jpg" crc="3811664950" seo="true" ref="phone>index:phone>1:phone>2:phone>3:phone>4:phone>ua:phone>1_ua:phone>2_ua:phone>3_ua:phone>4_ua:phone>about:phone>about_ua:phone>contact:phone>contact_ua:index:1:contact:2:3:4:about:about_ua:contact_ua:ua:1_ua:2_ua:3_ua:4_ua">
+      <caption webpage="1" alt=""/>
+      <caption webpage="1" alt=""/>
+      <caption webpage="1" alt=""/>
+      <caption webpage="1" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="about_ua" alt=""/>
+      <caption webpage="about_ua" alt=""/>
+      <caption webpage="about_ua" alt=""/>
+      <caption webpage="about_ua" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="ua" alt=""/>
+      <caption webpage="ua" alt=""/>
+      <caption webpage="ua" alt=""/>
+      <caption webpage="ua" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+      <caption webpage="contact_ua" alt=""/>
+      <caption webpage="contact_ua" alt=""/>
+      <caption webpage="contact_ua" alt=""/>
+      <caption webpage="contact_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+    </file>
+    <file name="bg2.jpg" crc="388201630" seo="true" ref="phone>index:phone>1:phone>2:phone>3:phone>4:phone>ua:phone>1_ua:phone>2_ua:phone>3_ua:phone>4_ua:phone>about:phone>about_ua:phone>contact:phone>contact_ua:index:1:contact:2:3:4:about:about_ua:contact_ua:ua:1_ua:2_ua:3_ua:4_ua">
+      <caption webpage="1" alt=""/>
+      <caption webpage="1" alt=""/>
+      <caption webpage="1" alt=""/>
+      <caption webpage="1" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="about_ua" alt=""/>
+      <caption webpage="about_ua" alt=""/>
+      <caption webpage="about_ua" alt=""/>
+      <caption webpage="about_ua" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="ua" alt=""/>
+      <caption webpage="ua" alt=""/>
+      <caption webpage="ua" alt=""/>
+      <caption webpage="ua" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+      <caption webpage="contact_ua" alt=""/>
+      <caption webpage="contact_ua" alt=""/>
+      <caption webpage="contact_ua" alt=""/>
+      <caption webpage="contact_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+    </file>
+    <file name="bg3.jpg" crc="79673825" seo="true" ref="phone>index:phone>1:phone>2:phone>3:phone>4:phone>ua:phone>1_ua:phone>2_ua:phone>3_ua:phone>4_ua:phone>about:phone>about_ua:phone>contact:phone>contact_ua:index:1:contact:2:3:4:about:about_ua:contact_ua:ua:1_ua:2_ua:3_ua:4_ua">
+      <caption webpage="1" alt=""/>
+      <caption webpage="1" alt=""/>
+      <caption webpage="1" alt=""/>
+      <caption webpage="1" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="about_ua" alt=""/>
+      <caption webpage="about_ua" alt=""/>
+      <caption webpage="about_ua" alt=""/>
+      <caption webpage="about_ua" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="ua" alt=""/>
+      <caption webpage="ua" alt=""/>
+      <caption webpage="ua" alt=""/>
+      <caption webpage="ua" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+      <caption webpage="contact_ua" alt=""/>
+      <caption webpage="contact_ua" alt=""/>
+      <caption webpage="contact_ua" alt=""/>
+      <caption webpage="contact_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+    </file>
+    <file name="bg4.jpg" crc="4147913518" seo="true" ref="phone>index:phone>1:phone>2:phone>3:phone>4:phone>ua:phone>1_ua:phone>2_ua:phone>3_ua:phone>4_ua:phone>about:phone>about_ua:phone>contact:phone>contact_ua:index:1:contact:2:3:4:about:about_ua:contact_ua:ua:1_ua:2_ua:3_ua:4_ua">
+      <caption webpage="1" alt=""/>
+      <caption webpage="1" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="about_ua" alt=""/>
+      <caption webpage="about_ua" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="ua" alt=""/>
+      <caption webpage="ua" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+      <caption webpage="contact_ua" alt=""/>
+      <caption webpage="contact_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+    <file name="dsc01964-u18563-fr.jpg" crc="3774138756" ref="phone>index:phone>ua"/>
+    <file name="dsc01822-u18564-fr.jpg" crc="3782162695" ref="phone>index:phone>ua"/>
+    <file name="dsc01851-u18565-fr.jpg" crc="3823121747" ref="phone>index:phone>ua"/>
+    <file name="dsc01854-u18566-fr.jpg" crc="3870686874" ref="phone>index:phone>ua"/>
+    <file name="logo-u18522-3-fr.png" crc="3920242905" ref="phone>index:phone>1:phone>2:phone>3:phone>4:phone>ua:phone>1_ua:phone>2_ua:phone>3_ua:phone>4_ua:phone>about:phone>about_ua:phone>contact:phone>contact_ua:index:1:contact:2:3:4:about:about_ua:contact_ua:ua:1_ua:2_ua:3_ua:4_ua"/>
+    <file name="facebook-u18516-fr.png" crc="4190948082" ref="phone>index:phone>1:phone>2:phone>3:phone>4:phone>ua:phone>1_ua:phone>2_ua:phone>3_ua:phone>4_ua:phone>about:phone>about_ua:phone>contact:phone>contact_ua:index:1:contact:2:3:4:about:about_ua:contact_ua:ua:1_ua:2_ua:3_ua:4_ua"/>
+    <file name="instagram.png" crc="4202616132" ref="phone>index:phone>1:phone>ua:phone>1_ua:phone>3_ua:phone>4_ua:phone>about_ua:phone>contact_ua:index:1:contact:2:3:4:about:about_ua:contact_ua:ua:1_ua:2_ua:3_ua:4_ua">
+      <caption webpage="1" alt=""/>
+      <caption webpage="1" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+      <caption webpage="contact_ua" alt=""/>
+      <caption webpage="contact_ua" alt=""/>
+      <caption webpage="ua" alt=""/>
+      <caption webpage="ua" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+      <caption webpage="about_ua" alt=""/>
+      <caption webpage="about_ua" alt=""/>
+    </file>
+    <file name="01-u19500-fr.jpg" crc="3887022521" ref="phone>1:phone>1_ua"/>
+    <file name="1-u19501-fr.jpg" crc="220728775" ref="phone>1:phone>1_ua"/>
+    <file name="dsc01915-u19502-fr.jpg" crc="7926700" ref="phone>1:phone>1_ua"/>
+    <file name="dsc01916-u19503-fr.jpg" crc="4175390522" ref="phone>1:phone>1_ua"/>
+    <file name="dsc02371-u19506-fr.jpg" crc="3890300563" ref="phone>1:phone>1_ua"/>
+    <file name="dsc01964-u19507-fr.jpg" crc="296054531" ref="phone>1:phone>1_ua"/>
+    <file name="dsc02047-u19508-fr.jpg" crc="187946739" ref="phone>1:phone>1_ua"/>
+    <file name="pointer.png" crc="3760686964" seo="true" ref="phone>1">
+      <caption webpage="1" alt=""/>
+      <caption webpage="1" alt=""/>
+      <caption webpage="1" alt=""/>
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="pointerb.png" crc="3780694765" seo="true" ref="phone>1">
+      <caption webpage="1" alt=""/>
+      <caption webpage="1" alt=""/>
+      <caption webpage="1" alt=""/>
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="dsc01777.jpg" crc="530495839" ref="phone>2:phone>2_ua:2:2_ua">
+      <caption webpage="2" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+    </file>
+    <file name="dsc01806-u22837-fr.jpg" crc="3962707866" ref="phone>2:phone>2_ua"/>
+    <file name="dsc01909-u22854-fr.jpg" crc="4174985091" ref="phone>2:phone>2_ua"/>
+    <file name="pointer2.png" crc="3760686964" seo="true" ref="phone>2:phone>3:phone>4:phone>1_ua:phone>2_ua">
+      <caption webpage="2" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+    </file>
+    <file name="pointerb2.png" crc="3780694765" seo="true" ref="phone>2:phone>3:phone>4:phone>2_ua:index:1:4:ua">
+      <caption webpage="1" alt=""/>
+      <caption webpage="1" alt=""/>
+      <caption webpage="1" alt=""/>
+      <caption webpage="1" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="ua" alt=""/>
+      <caption webpage="ua" alt=""/>
+      <caption webpage="ua" alt=""/>
+      <caption webpage="ua" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+    </file>
+    <file name="dsc01820-u22838-fr.jpg" crc="3909592605" ref="phone>2:phone>2_ua"/>
+    <file name="dsc01811-u22855-fr.jpg" crc="4093433220" ref="phone>2:phone>2_ua"/>
+    <file name="dsc01812-u22839-fr.jpg" crc="223874972" ref="phone>2:phone>2_ua"/>
+    <file name="dsc01822-u22840-fr.jpg" crc="3825791020" ref="phone>2:phone>2_ua"/>
+    <file name="dsc01826-u22853-fr.jpg" crc="420236319" ref="phone>2:phone>2_ua"/>
+    <file name="dsc01832.jpg" crc="4257886455" ref="phone>2:phone>2_ua:2:2_ua">
+      <caption webpage="2" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+    </file>
+    <file name="dsc01828.jpg" crc="4175641099" ref="phone>2:phone>2_ua:2:2_ua">
+      <caption webpage="2" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+    </file>
+    <file name="dsc01918-u22841-fr.jpg" crc="63221493" ref="phone>2:phone>2_ua"/>
+    <file name="dsc01983-u22842-fr.jpg" crc="168003952" ref="phone>2:phone>2_ua"/>
+    <file name="dsc02016-u22843-fr.jpg" crc="20143129" ref="phone>2:phone>2_ua"/>
+    <file name="dsc02381-u22850-fr.jpg" crc="122387215" ref="phone>2:phone>2_ua"/>
+    <file name="dsc02380-u22844-fr.jpg" crc="192723826" ref="phone>2:phone>2_ua"/>
+    <file name="dsc01836-u22845-fr.jpg" crc="4109447536" ref="phone>2:phone>2_ua"/>
+    <file name="dsc01910-u22848-fr.jpg" crc="266604021" ref="phone>2:phone>2_ua"/>
+    <file name="dsc02035-u22846-fr.jpg" crc="423819786" ref="phone>2:phone>2_ua"/>
+    <file name="dsc02036-u22849-fr.jpg" crc="4046288439" ref="phone>2:phone>2_ua"/>
+    <file name="dsc02037.jpg" crc="3781479938" ref="phone>2:phone>2_ua:2:2_ua">
+      <caption webpage="2" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+    </file>
+    <file name="instagram2.png" crc="4202616132" ref="phone>2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="dsc01859-u23459-fr.jpg" crc="650096" ref="phone>3:phone>3_ua"/>
+    <file name="dsc01869-u23460-fr.jpg" crc="61121445" ref="phone>3:phone>3_ua"/>
+    <file name="dsc01851-u23461-fr.jpg" crc="113090440" ref="phone>3:phone>3_ua"/>
+    <file name="dsc01981-u23464-fr.jpg" crc="438792347" ref="phone>3:phone>3_ua"/>
+    <file name="dsc01925-u23465-fr.jpg" crc="4047816466" ref="phone>3:phone>3_ua"/>
+    <file name="dsc01987-u23466-fr.jpg" crc="212471706" ref="phone>3:phone>3_ua"/>
+    <file name="dsc01994-u23467-fr.jpg" crc="130314333" ref="phone>3:phone>3_ua"/>
+    <file name="instagram3.png" crc="4202616132" ref="phone>3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="dsc01784-u23583-fr.jpg" crc="4232489238" ref="phone>4:phone>4_ua"/>
+    <file name="dsc01787.jpg" crc="3828442898" ref="phone>4:phone>4_ua:4:4_ua">
+      <caption webpage="4" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+    </file>
+    <file name="dsc01795-u23585-fr.jpg" crc="3846269135" ref="phone>4:phone>4_ua"/>
+    <file name="dsc01889-u23604-fr.jpg" crc="359887085" ref="phone>4:phone>4_ua"/>
+    <file name="dsc01887.jpg" crc="3911395177" ref="phone>4:phone>4_ua:4:4_ua">
+      <caption webpage="4" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+    </file>
+    <file name="dsc01880.jpg" crc="4135802158" ref="phone>4:phone>4_ua:4:4_ua">
+      <caption webpage="4" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+    </file>
+    <file name="dsc01928-u23586-fr.jpg" crc="3824121316" ref="phone>4:phone>4_ua"/>
+    <file name="dsc01932-u23587-fr.jpg" crc="288099060" ref="phone>4:phone>4_ua"/>
+    <file name="dsc01854-u23588-fr.jpg" crc="4258672401" ref="phone>4:phone>4_ua"/>
+    <file name="dsc01904-u23589-fr.jpg" crc="4277600959" ref="phone>4:phone>4_ua"/>
+    <file name="dsc01871-u23601-fr.jpg" crc="3827171378" ref="phone>4:phone>4_ua"/>
+    <file name="dsc01894-u23590-fr.jpg" crc="3960060567" ref="phone>4:phone>4_ua"/>
+    <file name="dsc01902-u23599-fr.jpg" crc="4151474246" ref="phone>4:phone>4_ua"/>
+    <file name="dsc01912-u23591-fr.jpg" crc="3894010881" ref="phone>4:phone>4_ua"/>
+    <file name="dsc01919.jpg" crc="4173701949" ref="phone>4:phone>4_ua:4:4_ua">
+      <caption webpage="4" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+    </file>
+    <file name="dsc01927-u23593-fr.jpg" crc="3930190308" ref="phone>4:phone>4_ua"/>
+    <file name="dsc01942-u23592-fr.jpg" crc="211583908" ref="phone>4:phone>4_ua"/>
+    <file name="dsc01944-u23594-fr.jpg" crc="4220305977" ref="phone>4:phone>4_ua"/>
+    <file name="dsc01967-u23595-fr.jpg" crc="3777966186" ref="phone>4:phone>4_ua"/>
+    <file name="dsc02030-u23598-fr.jpg" crc="3984753056" ref="phone>4:phone>4_ua"/>
+    <file name="dsc02012.jpg" crc="196711238" ref="phone>4:phone>4_ua:4:4_ua">
+      <caption webpage="4" alt=""/>
+      <caption webpage="4" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+    </file>
+    <file name="dsc02009-u23597-fr.jpg" crc="441069954" ref="phone>4:phone>4_ua"/>
+    <file name="instagram4.png" crc="4202616132" ref="phone>4">
+      <caption webpage="4" alt=""/>
+    </file>
+    <file name="pointerb3.png" crc="3780694765" seo="true" ref="phone>1_ua">
+      <caption webpage="1_ua" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+    </file>
+    <file name="instagram5.png" crc="4202616132" ref="phone>2_ua">
+      <caption webpage="2_ua" alt=""/>
+    </file>
+    <file name="pointer3.png" crc="3760686964" seo="true" ref="phone>3_ua">
+      <caption webpage="3_ua" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+    </file>
+    <file name="pointerb4.png" crc="3780694765" seo="true" ref="phone>3_ua">
+      <caption webpage="3_ua" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+    </file>
+    <file name="pointer4.png" crc="3760686964" seo="true" ref="phone>4_ua">
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+    </file>
+    <file name="pointerb5.png" crc="3780694765" seo="true" ref="phone>4_ua">
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+    </file>
+    <file name="pointer5.png" crc="3760686964" seo="true" ref="phone>about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="pointerb6.png" crc="3780694765" seo="true" ref="phone>about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="instagram6.png" crc="4202616132" ref="phone>about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="pointer6.png" crc="3760686964" seo="true" ref="phone>about_ua">
+      <caption webpage="about_ua" alt=""/>
+      <caption webpage="about_ua" alt=""/>
+      <caption webpage="about_ua" alt=""/>
+      <caption webpage="about_ua" alt=""/>
+    </file>
+    <file name="pointerb7.png" crc="3780694765" seo="true" ref="phone>about_ua">
+      <caption webpage="about_ua" alt=""/>
+      <caption webpage="about_ua" alt=""/>
+      <caption webpage="about_ua" alt=""/>
+      <caption webpage="about_ua" alt=""/>
+    </file>
+    <file name="pointer7.png" crc="3760686964" seo="true" ref="phone>contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pointerb8.png" crc="3780694765" seo="true" ref="phone>contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="instagram7.png" crc="4202616132" ref="phone>contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pointer8.png" crc="3760686964" seo="true" ref="phone>contact_ua">
+      <caption webpage="contact_ua" alt=""/>
+      <caption webpage="contact_ua" alt=""/>
+      <caption webpage="contact_ua" alt=""/>
+      <caption webpage="contact_ua" alt=""/>
+    </file>
+    <file name="pointerb9.png" crc="3780694765" seo="true" ref="phone>contact_ua">
+      <caption webpage="contact_ua" alt=""/>
+      <caption webpage="contact_ua" alt=""/>
+      <caption webpage="contact_ua" alt=""/>
+      <caption webpage="contact_ua" alt=""/>
+    </file>
+    <file name="logo.png" crc="4171537274" ref="index:ua">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc01964.jpg" crc="197409849" ref="index:1:ua:1_ua">
+      <caption webpage="1" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+      <caption webpage="ua" alt=""/>
+    </file>
+    <file name="dsc01851.jpg" crc="4221564322" ref="index:3:ua:3_ua">
+      <caption webpage="3" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+      <caption webpage="ua" alt=""/>
+    </file>
+    <file name="dsc01822.jpg" crc="115863153" ref="index:2:ua:2_ua">
+      <caption webpage="2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+    </file>
+    <file name="dsc01854.jpg" crc="197976960" ref="index:4:ua:4_ua">
+      <caption webpage="4" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+    </file>
+    <file name="01.jpg" crc="4136194072" ref="1:1_ua">
+      <caption webpage="1" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+    </file>
+    <file name="1.jpg" crc="92400381" ref="1:1_ua">
+      <caption webpage="1" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+    </file>
+    <file name="dsc01915.jpg" crc="3969156304" ref="1:1_ua">
+      <caption webpage="1" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+    </file>
+    <file name="dsc01916.jpg" crc="4070658067" ref="1:1_ua">
+      <caption webpage="1" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+    </file>
+    <file name="dsc02371.jpg" crc="4104099346" ref="1:1_ua">
+      <caption webpage="1" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+    </file>
+    <file name="dsc02047.jpg" crc="3992895074" ref="1:1_ua">
+      <caption webpage="1" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+    </file>
+    <file name="pointerb10.png" crc="3780694765" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="dsc01806.jpg" crc="4024782177" ref="2:2_ua">
+      <caption webpage="2" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+    </file>
+    <file name="dsc01909.jpg" crc="132257561" ref="2:2_ua">
+      <caption webpage="2" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+    </file>
+    <file name="dsc01820.jpg" crc="414895613" ref="2:2_ua">
+      <caption webpage="2" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+    </file>
+    <file name="dsc01811.jpg" crc="4196055579" ref="2:2_ua">
+      <caption webpage="2" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+    </file>
+    <file name="dsc01812.jpg" crc="4246661067" ref="2:2_ua">
+      <caption webpage="2" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+    </file>
+    <file name="dsc01826.jpg" crc="42078483" ref="2:2_ua">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="dsc01918.jpg" crc="368498232" ref="2:2_ua">
+      <caption webpage="2" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+    </file>
+    <file name="dsc01983.jpg" crc="4078390332" ref="2:2_ua">
+      <caption webpage="2" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+    </file>
+    <file name="dsc02016.jpg" crc="3849251532" ref="2:2_ua">
+      <caption webpage="2" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+    </file>
+    <file name="dsc02381.jpg" crc="519842823" ref="2:2_ua">
+      <caption webpage="2" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+    </file>
+    <file name="dsc02380.jpg" crc="4262914585" ref="2:2_ua">
+      <caption webpage="2" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+    </file>
+    <file name="dsc01836.jpg" crc="139064119" ref="2:2_ua">
+      <caption webpage="2" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+    </file>
+    <file name="dsc01910.jpg" crc="443366236" ref="2:2_ua">
+      <caption webpage="2" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+    </file>
+    <file name="dsc02035.jpg" crc="4244058687" ref="2:2_ua">
+      <caption webpage="2" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+    </file>
+    <file name="dsc02036.jpg" crc="528157573" ref="2:2_ua">
+      <caption webpage="2" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+    </file>
+    <file name="pointerb11.png" crc="3780694765" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="dsc01859.jpg" crc="4171124874" ref="3:3_ua">
+      <caption webpage="3" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+    </file>
+    <file name="dsc01869.jpg" crc="410669208" ref="3:3_ua">
+      <caption webpage="3" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+    </file>
+    <file name="dsc01859-u11300-fr.jpg" crc="340483706" ref="3:3_ua"/>
+    <file name="dsc01981.jpg" crc="4092687900" ref="3:3_ua">
+      <caption webpage="3" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+    </file>
+    <file name="dsc01925.jpg" crc="4077643207" ref="3:3_ua">
+      <caption webpage="3" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+    </file>
+    <file name="dsc01987.jpg" crc="73330167" ref="3:3_ua">
+      <caption webpage="3" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+    </file>
+    <file name="dsc01994.jpg" crc="276168076" ref="3:3_ua">
+      <caption webpage="3" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+    </file>
+    <file name="dsc01784.jpg" crc="3991379881" ref="4:4_ua">
+      <caption webpage="4" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+    </file>
+    <file name="dsc01795.jpg" crc="56792303" ref="4:4_ua">
+      <caption webpage="4" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+    </file>
+    <file name="dsc01889.jpg" crc="229334685" ref="4:4_ua">
+      <caption webpage="4" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+    </file>
+    <file name="dsc01928.jpg" crc="13576290" ref="4:4_ua">
+      <caption webpage="4" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+    </file>
+    <file name="dsc01932.jpg" crc="3876754520" ref="4:4_ua">
+      <caption webpage="4" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+    </file>
+    <file name="dsc01904.jpg" crc="3794240090" ref="4:4_ua">
+      <caption webpage="4" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+    </file>
+    <file name="dsc01871.jpg" crc="4274676265" ref="4:4_ua">
+      <caption webpage="4" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+    </file>
+    <file name="dsc01894.jpg" crc="4283576338" ref="4:4_ua">
+      <caption webpage="4" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+    </file>
+    <file name="dsc01902.jpg" crc="126627303" ref="4:4_ua">
+      <caption webpage="4" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+    </file>
+    <file name="dsc01912.jpg" crc="376414123" ref="4:4_ua">
+      <caption webpage="4" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+    </file>
+    <file name="dsc01927.jpg" crc="3868998970" ref="4:4_ua">
+      <caption webpage="4" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+    </file>
+    <file name="dsc01942.jpg" crc="427963978" ref="4:4_ua">
+      <caption webpage="4" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+    </file>
+    <file name="dsc01944.jpg" crc="4211962921" ref="4:4_ua">
+      <caption webpage="4" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+    </file>
+    <file name="dsc01967.jpg" crc="117042954" ref="4:4_ua">
+      <caption webpage="4" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+    </file>
+    <file name="dsc02030.jpg" crc="92902942" ref="4:4_ua">
+      <caption webpage="4" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+    </file>
+    <file name="dsc02009.jpg" crc="4087239541" ref="4:4_ua">
+      <caption webpage="4" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+    </file>
+    <file name="pointerb12.png" crc="3780694765" seo="true" ref="1_ua">
+      <caption webpage="1_ua" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+      <caption webpage="1_ua" alt=""/>
+    </file>
+    <file name="pointerb13.png" crc="3780694765" seo="true" ref="2_ua">
+      <caption webpage="2_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+      <caption webpage="2_ua" alt=""/>
+    </file>
+    <file name="pointerb14.png" crc="3780694765" seo="true" ref="3_ua">
+      <caption webpage="3_ua" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+      <caption webpage="3_ua" alt=""/>
+    </file>
+    <file name="pointerb15.png" crc="3780694765" seo="true" ref="4_ua">
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+      <caption webpage="4_ua" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_template.css" crc="325099157" ref="phone>3:phone>2:phone>1:phone>index:phone>about:phone>4_ua:phone>3_ua:phone>about_ua:phone>2_ua:phone>contact_ua:phone>1_ua:phone>contact:phone>ua:phone>4"/>
+      <file name="3.css" crc="3925357438" ref="phone>3"/>
+      <file name="2.css" crc="205398617" ref="phone>2"/>
+      <file name="1.css" crc="4164226060" ref="phone>1"/>
+      <file name="index.css" crc="78348420" ref="phone>index"/>
+      <file name="about.css" crc="302658581" ref="phone>about"/>
+      <file name="4_ua.css" crc="4257502633" ref="phone>4_ua"/>
+      <file name="3_ua.css" crc="56478780" ref="phone>3_ua"/>
+      <file name="about_ua.css" crc="217068764" ref="phone>about_ua"/>
+      <file name="2_ua.css" crc="3794489340" ref="phone>2_ua"/>
+      <file name="contact_ua.css" crc="4227201517" ref="phone>contact_ua"/>
+      <file name="1_ua.css" crc="45899710" ref="phone>1_ua"/>
+      <file name="contact.css" crc="3771154203" ref="phone>contact"/>
+      <file name="ua.css" crc="4047235512" ref="phone>ua"/>
+      <file name="4.css" crc="272787384" ref="phone>4"/>
+    </folder>
+    <file name="index.html" crc="300354551" seo="true" mt="1514294351079" redirect="true"/>
+    <file name="1.html" crc="51261154" seo="true" mt="1514311861359" redirect="true"/>
+    <file name="2.html" crc="152901940" seo="true" mt="1514311898486" redirect="true"/>
+    <file name="3.html" crc="3997430924" seo="true" mt="1514311912307" redirect="true"/>
+    <file name="4.html" crc="3915078234" seo="true" mt="1514311924085" redirect="true"/>
+    <file name="ua.html" crc="503097729" seo="true" mt="1514301703791" redirect="true"/>
+    <file name="1_ua.html" crc="3905801082" seo="true" mt="1514311949887" redirect="true"/>
+    <file name="2_ua.html" crc="4188225539" seo="true" mt="1514311974020" redirect="true"/>
+    <file name="3_ua.html" crc="79463666" seo="true" mt="1514312053666" redirect="true"/>
+    <file name="4_ua.html" crc="3785361998" seo="true" mt="1514312090308" redirect="true"/>
+    <file name="about.html" crc="419789525" seo="true" mt="1514303396703" redirect="true"/>
+    <file name="about_ua.html" crc="3979827990" seo="true" mt="1514303350538" redirect="true"/>
+    <file name="contact.html" crc="4127579597" seo="true" mt="1514303838593" redirect="true"/>
+    <file name="contact_ua.html" crc="343949653" seo="true" mt="1514304114598" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4205980147" seo="true" mt="1543300238538" redirect="true"/>
+  <file name="1.html" crc="410352080" seo="true" mt="1543300264914" redirect="true"/>
+  <file name="contact.html" crc="3804997893" seo="true" mt="1543300805716" redirect="true"/>
+  <file name="2.html" crc="4095145412" seo="true" mt="1543300351519" redirect="true"/>
+  <file name="3.html" crc="4058184251" seo="true" mt="1543300469169" redirect="true"/>
+  <file name="4.html" crc="3074" seo="true" mt="1543300501172" redirect="true"/>
+  <file name="about.html" crc="4170938086" seo="true" mt="1543300724613" redirect="true"/>
+  <file name="about_ua.html" crc="3972041677" seo="true" mt="1543300749890" redirect="true"/>
+  <file name="contact_ua.html" crc="4033664989" seo="true" mt="1543300879210" redirect="true"/>
+  <file name="ua.html" crc="4247388908" seo="true" mt="1543300201454" redirect="true"/>
+  <file name="1_ua.html" crc="4092329178" seo="true" mt="1543300321682" redirect="true"/>
+  <file name="2_ua.html" crc="4220660110" seo="true" mt="1543300537509" redirect="true"/>
+  <file name="3_ua.html" crc="343922991" seo="true" mt="1543300665661" redirect="true"/>
+  <file name="4_ua.html" crc="17041866" seo="true" mt="1543300697144" redirect="true"/>
+</manifest>
